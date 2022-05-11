@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/add_regular_icon_205693.png</file>
+        <file>icons/approvals_app_regular_icon_205680.png</file>
+        <file>icons/arrow_sync_regular_icon_205629.png</file>
+        <file>icons/checkmark_regular_icon_204540.png</file>
+        <file>icons/important_regular_icon_205220.png</file>
+        <file>icons/tasks_app_regular_icon_204842.png</file>
+        <file>icons/text_bullet_list_square_warning_regular_icon_204826.png</file>
+        <file>icons/no_Sync_Icon.png</file>
+        <file>icons/up_graph_icon_217662.png</file>
+        <file>icons/document_save_regular_icon_205342.png</file>
+        <file>icons/collections_add_regular_icon_205457.png</file>
+        <file>icons/data_bar_vertical_add_regular_icon_205410.png</file>
+        <file>icons/shortpick_regular_icon_204219.png</file>
+    </qresource>
+</RCC>

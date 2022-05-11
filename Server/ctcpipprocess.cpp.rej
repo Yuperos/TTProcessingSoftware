@@ -1,0 +1,9 @@
+diff a/Server/ctcpipprocess.cpp b/Server/ctcpipprocess.cpp	(rejected hunks)
+@@ -61,6 +61,7 @@
+     }
+     if (mSocket->isValid()){
+         cTcpIpServer::consoleWriteDebug(QString("Socket %1 write: %2").arg(mSocket->socketDescriptor()).arg(ba.data()));
++        QByteArray block;
+         QDataStream out(&block, QIODevice::WriteOnly);
+         out.setVersion(QDataStream::Qt_5_15);
+         out << ba;
